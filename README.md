@@ -2,7 +2,7 @@
 
 🌐[My Portfolio Site](https://www.crowdevelopment.io/)
 
-## 📊 My Github Stats
+## 📊 My Github & LeetCode Stats
 
 <div align="center">
   <span>
@@ -16,6 +16,13 @@
     <img 
          alt="Eric's Top Languages" 
          src="https://github-readme-stats-pxexhsfcg-ericjamescrow.vercel.app/api/top-langs/?username=EricJamesCrow&langs_count=8&count_private=true&layout=compact&theme=dark&hide_border=true"
+         height="175"
+         />
+  </span>
+    <span>
+    <img 
+         alt="Eric's LeetCode Stats" 
+         src="https://leetcard.jacoblin.cool/ItsJustEric"
          height="175"
          />
   </span>
