@@ -1,7 +1,23 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats-pxexhsfcg-ericjamescrow.vercel.app/api?username=EricJamesCrow&show_icons=true&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+## 📊 My Github Stats
 
+<div align="center">
+  <span>
+    <img 
+         alt="Eric's Github Stats" 
+         src="https://github-readme-stats-pxexhsfcg-ericjamescrow.vercel.app/api?username=EricJamesCrow&show_icons=true&count_private=true&theme=dark"
+         height="175"
+     />
+  </span>
+  <span>
+    <img 
+         alt="Eric's Top Languages" 
+         src="https://github-readme-stats-pxexhsfcg-ericjamescrow.vercel.app/api/top-langs/?username=EricJamesCrow&langs_count=8&count_private=true&layout=compact&theme=dark"
+         height="175"
+         />
+  </span>
+</div>
 <!--
 **EricJamesCrow/EricJamesCrow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
