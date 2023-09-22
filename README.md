@@ -6,14 +6,14 @@
   <span>
     <img 
          alt="Eric's Github Stats" 
-         src="https://github-readme-stats-pxexhsfcg-ericjamescrow.vercel.app/api?username=EricJamesCrow&show_icons=true&count_private=true&theme=dark"
+         src="https://github-readme-stats-pxexhsfcg-ericjamescrow.vercel.app/api?username=EricJamesCrow&show_icons=true&count_private=true&theme=dark&hide_border=true"
          height="175"
      />
   </span>
   <span>
     <img 
          alt="Eric's Top Languages" 
-         src="https://github-readme-stats-pxexhsfcg-ericjamescrow.vercel.app/api/top-langs/?username=EricJamesCrow&langs_count=8&count_private=true&layout=compact&theme=dark"
+         src="https://github-readme-stats-pxexhsfcg-ericjamescrow.vercel.app/api/top-langs/?username=EricJamesCrow&langs_count=8&count_private=true&layout=compact&theme=dark&hide_border=true"
          height="175"
          />
   </span>
