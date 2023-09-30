@@ -27,6 +27,6 @@
 
 <p><img align="center" src="https://github-readme-stats-pxexhsfcg-ericjamescrow.vercel.app/api/top-langs?username=ericjamescrow&show_icons=true&count_private=true&theme=dark&locale=en&layout=compact" alt="ericjamescrow" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats-pxexhsfcg-ericjamescrow.vercel.app/api?username=ericjamescrow&show_icons=true&&count_private=true&theme=dark&locale=en" alt="ericjamescrow" /></p>
-<p><img align="center" src="https://leetcard.jacoblin.cool/ItsJustEric" alt="ericjamescrow"</p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ericjamescrow&theme=dark" alt="ericjamescrow" /></p>
+<p><img align="center" src="https://leetcard.jacoblin.cool/ItsJustEric" alt="ericjamescrow"</p>
 
