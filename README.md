@@ -30,11 +30,9 @@
   <img width="440px" src="https://github-readme-stats-pxexhsfcg-ericjamescrow.vercel.app/api?username=ericjamescrow&show_icons=true&&count_private=true&theme=dark&locale=en" alt="ericjamescrow" />
 </div>
 
-<p align="center">
+<div align="center">
   <img width="440px" src="https://github-readme-streak-stats.herokuapp.com/?user=ericjamescrow&theme=dark" alt="ericjamescrow" />
-</p>
-<p align="center">
   <img width="440px" src="https://leetcard.jacoblin.cool/ItsJustEric" alt="ericjamescrow" />
-</p>
+</div>
 
 
