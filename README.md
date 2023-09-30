@@ -31,8 +31,8 @@
 </div>
 
 <div align="center">
-  <img width="440px" src="https://github-readme-streak-stats.herokuapp.com/?user=ericjamescrow&theme=dark" alt="ericjamescrow" />
-  <img width="440px" src="https://leetcard.jacoblin.cool/ItsJustEric" alt="ericjamescrow" />
+  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=ericjamescrow&theme=dark" alt="ericjamescrow" />
+  <img width="400px" src="https://leetcard.jacoblin.cool/ItsJustEric" alt="ericjamescrow" />
 </div>
 
 
