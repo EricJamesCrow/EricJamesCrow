@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eric Crow</h1>
-<h3 align="center">I'm a Computer Science student at Western Governors University, graduating this fall. Throughout my studies, I've specialized in web development with a focus on React. As graduation nears, I'm gearing up for a role in professional web development and am available for freelance projects. My objective is to assist businesses in building a strong online presence.</h3>
+<h3 align="center">I'm a Computer Science student at Western Governors University, graduating this fall. During my time at WGU, I've specialized in web development with a focus on React. As graduation nears, I'm currently looking for a role in professional web development and am available for select freelance projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ericjamescrow&label=Profile%20views&color=0e75b6&style=flat" alt="ericjamescrow" /> </p>
 
