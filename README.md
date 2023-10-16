@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [ProteoMutics](https://github.com/EricJamesCrow/ProteoMutics)
 
-- 🌱 I’m currently learning **AI/ML**
+- 🌱 I’m currently studying **Leetcode**
 
 - 👨‍💻 All of my projects are available at [https://www.crowdevelopment.io/portfolio](https://www.crowdevelopment.io/portfolio)
 
