@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ericjamescrow" alt="ericjamescrow" /></a> </p>
 
-- 🔭 I’m currently working on [XandraSwimwear](https://xandraswimwear.com/)
+- 🔭 I’m currently working on [Xandra Swimwear](https://xandraswimwear.com/)
 
 - 🌱 I’m currently studying **Leetcode**
 
