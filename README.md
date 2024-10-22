@@ -4,9 +4,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ericjamescrow" alt="ericjamescrow" /></a> </p>
 
-- 🔭 I’m currently working on [Xandra Swimwear](https://xandraswimwear.com/)
+- 🔭 I’m currently working at [RiteWipe](https://ritewipe.com/)
 
-- 👨‍💻 All of my projects are available at [https://www.crowdevelopment.io/portfolio](https://www.crowdevelopment.io/portfolio)
 
 - 📫 How to reach me **EricCrow@pm.me**
 
