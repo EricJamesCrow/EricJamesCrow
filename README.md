@@ -16,15 +16,13 @@
 
 ### Tech Stack
 
-**Languages:** TypeScript, JavaScript, Python, SQL, HTML, CSS  
-**Frontend:** React, Next.js, Remix, Tailwind CSS, Framer Motion, Electron  
-**Backend & APIs:** Node.js, Convex, Django, Flask, FastAPI, REST, GraphQL, OAuth 2.0  
-**E-commerce & CMS:** Medusa v2, Shopify Hydrogen, Sanity CMS  
-**Cloud & DevOps:** AWS (EC2, S3, IAM), Vercel, Docker, GitHub Actions, Turborepo, Bun  
-**Data & Automation:** Pandas, NumPy, Selenium, Scrapy  
+**Languages:** TypeScript, JavaScript, Python, SQL  
+**Frontend:** React, Next.js, Remix, Tailwind CSS, Framer Motion  
+**Backend & APIs:** Node.js, Convex, FastAPI, GraphQL  
+**E-commerce:** Medusa v2, Shopify Hydrogen, Sanity CMS  
+**Cloud & DevOps:** AWS, Vercel, Docker, GitHub Actions, Turborepo, Bun  
 **Databases:** PostgreSQL, MongoDB, Convex  
 **Testing:** Playwright, Vitest, Jest  
-**Enterprise & RevOps:** HubSpot CRM, NetSuite ERP, Apollo.io, Microsoft Intune, Entra ID  
 **Other:** Plaid, Stripe, Clerk, PostHog, Sentry, Figma, Linear
 
 ---
