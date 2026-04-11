@@ -18,8 +18,8 @@
 ### What I'm building
 
 - 🏦 **[SmartPockets](https://github.com/EricJamesCrow/smartpockets)** — Open-source personal finance app (Next.js, Convex, Plaid, TypeScript)
-- 📦 **[plaid-convex](https://www.npmjs.com/package/plaid-convex)** — Published NPM package for Plaid + Convex integration
-- 🛍️ **[CrowCommerce Medusa TailwindUI](https://github.com/EricJamesCrow/commerce-tailwindui-medusa)** — Headless e-commerce template (Next.js, Medusa, Tailwind UI)
+- 🛍️ **[CrowCommerce](https://github.com/EricJamesCrow/commerce-tailwindui-medusa)** — Headless e-commerce template (Next.js, Medusa, Tailwind UI)
+- 🌱 **[Mantra Seeds](https://mantraseeds.com)** — E-commerce site currently in development for a client, built on the CrowCommerce template
 
 ---
 
